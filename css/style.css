@@ -1,0 +1,39 @@
+
+
+.gray, .dark, .cont, .danger, .first{
+    border: 6px solid black;
+}
+
+
+#password{
+    color: lime;
+  
+    background-color: white;
+
+    border: 6px solid black;
+
+    
+}
+
+
+
+#password:hover{
+    background-color: black;
+    cursor:pointer;
+    text-shadow:limegreen 1px 0 10px;
+
+}
+
+.cont{
+    background-color: red;
+
+}
+
+.title{
+
+    text-shadow: yellow 1px 0 10px;
+}
+
+.text{
+    text-shadow: yellow 1px 0 10px;
+}
